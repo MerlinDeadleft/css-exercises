@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.red-background {
+    background-color: hsl(0, 100%, 85%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#large-blue-text {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+.large-text {
+    font-size: 24px;
+}
+
+#bold-green-background {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
